@@ -1,0 +1,9 @@
+[ 터미널에서 폴더 찾아가기 관련 명령어 ]
+
+dir : 현재 위치에서 존재하는 폴더, 파일 등 화면에 출력하기
+clear : 터미널 출력화면 지우기
+cd : change directory
+
+[ 플라스크 명령어 ]
+flask run : 웹 실행
+flask routes : 웹 경로 보기
